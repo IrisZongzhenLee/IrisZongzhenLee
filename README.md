@@ -9,8 +9,8 @@
   - [Project analysis in R code](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Kaggle data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 - <b>Binary Number System for Large Floating Point Numbers and Functions for Arithmetic/Root Operations</b>
-  - [Project development in R code](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b>
-
+  - [Project scoping and assessment in R Markdown](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Project function development in R code](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 <h2>👨‍💻 MIT Programming Projects in Python</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
