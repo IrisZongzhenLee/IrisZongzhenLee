@@ -2,7 +2,7 @@
   
 <b>I am a data enthusiast with actuarial expertise in the consulting industry. I am thrilled to share my growing range of academic projects here in the future. Explore my GitHub repositories below for a glimpse into my evolving journey✨</b>
 
-<h2>🎓👨‍💻 UCLA Programmming Projects in R</h2>
+<h2>🎓 UCLA Programmming Projects in R</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
