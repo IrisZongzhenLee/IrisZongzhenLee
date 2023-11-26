@@ -15,5 +15,5 @@
 
 - <b>Pima Indians Diabetes Analysis</b>
   - [Project analysis in Python](https://github.com/IrisZongzhenLee/PimaIndiansDiabetes/blob/main/PimaIndiansDiabetesAnalysis.ipynb)<b> (in Jupyter Notebook)</b>
-- <b>Hotel Booking Cancellation Prediction</b>
+- <b>Hotel Booking Cancellation Prediction (Univariate/Bivariate Analysis, Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest)</b>
   - [Project analysis in Python](https://github.com/IrisZongzhenLee/HotelCancellationPrediction/blob/main/HotelCancellationPrediction.ipynb)<b> (in Jupyter Notebook)</b>
