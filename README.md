@@ -16,4 +16,4 @@
 - <b>Pima Indians Diabetes Analysis</b>
   - [Project analysis in Python](https://github.com/IrisZongzhenLee/PimaIndiansDiabetes/blob/main/PimaIndiansDiabetesAnalysis.ipynb)<b> (in Jupyter Notebook)</b>
 - <b>Hotel Booking Cancellation Prediction</b>
-  - [Project analysis in Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b> (in Jupyter Notebook)</b>
+  - [Project analysis in Python](https://github.com/IrisZongzhenLee/HotelCancellationPrediction/blob/main/HotelCancellationPrediction.ipynb)<b> (in Jupyter Notebook)</b>
