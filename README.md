@@ -5,8 +5,8 @@
 <h2>🎓 UCLA Programmming Projects in R</h2>
 
 - <b>Analysis on Life Expectancy Data (Clustering, PCA, MLE Optimization)</b>
-  - [Summary paper on analysis results]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/IrisZongzhenLee/LifeExpectancyProject/blob/main/Life%20Expectancy%20Project.pdf))
-  - [Project analysis in R code]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/IrisZongzhenLee/LifeExpectancyProject/blob/main/LifeExpectancy.R))
+  - [Summary paper on analysis results](https://github.com/IrisZongzhenLee/LifeExpectancyProject/blob/main/Life%20Expectancy%20Project.pdf)
+  - [Project analysis in R code](https://github.com/IrisZongzhenLee/LifeExpectancyProject/blob/main/LifeExpectancy.R)
   - [Kaggle data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 - <b>Binary Number System for Large Floating Point Numbers and Functions for Arithmetic/Root Operations</b>
   - [Project scoping and assessment in R Markdown](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
