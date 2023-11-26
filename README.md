@@ -16,4 +16,4 @@
 - <b>Pima Indians Diabetes Analysis</b>
   - [Project analysis in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Hotel Booking Cancellation Prediction</b>
-  - [Project analysis in Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Project analysis in Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
