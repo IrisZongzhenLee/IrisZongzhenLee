@@ -8,8 +8,8 @@
   - [Summary paper on analysis results](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project analysis in R code](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Kaggle data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Binary Number System for Large Floating Point Numbers and Functions for Arithmetic/Root Operations</b>
+  - [Project development in R code](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b>
 
 <h2>👨‍💻 MIT Programming Projects in Python</h2>
 
