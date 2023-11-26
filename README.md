@@ -9,8 +9,8 @@
   - [Project analysis in R code](https://github.com/IrisZongzhenLee/LifeExpectancyProject/blob/main/LifeExpectancy.R)
   - [Kaggle data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 - <b>Binary Number System for Large Floating Point Numbers and Functions for Arithmetic/Root Operations</b>
-  - [Project scoping and assessment in R Markdown](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Project function development in R code](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Project scoping and assessment in R Markdown](https://github.com/IrisZongzhenLee/BinarySystem/blob/main/BinarySystemProject.Rmd)
+  - [Project function development in R code](https://github.com/IrisZongzhenLee/BinarySystem/blob/main/projectfunctions.R)
 <h2>👨‍💻 MIT Programming Projects in Python</h2>
 
 - <b>Pima Indians Diabetes Analysis</b>
