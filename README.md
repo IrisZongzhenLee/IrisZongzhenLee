@@ -13,7 +13,7 @@
   - [Project function development in R code](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 <h2>👨‍💻 MIT Programming Projects in Python</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Pima Indians Diabetes Analysis</b>
+  - [Project analysis in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Hotel Booking Cancellation Prediction</b>
+  - [Project analysis in Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
