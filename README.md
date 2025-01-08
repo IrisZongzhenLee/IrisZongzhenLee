@@ -19,3 +19,15 @@
   - [Project analysis in Python](https://github.com/IrisZongzhenLee/PimaIndiansDiabetes/blob/main/PimaIndiansDiabetesAnalysis.ipynb)<b> (in Jupyter Notebook)</b>
 
 <h2>👾 Northwestern ML/DS Programming Projects</h2>
+- <b>Subscriber Churn Prediction (Random Forest, Lasso Regression, Feature Engineering)</b>
+  - [Summary paper on analysis results]()
+  - [Project analysis in R code]()
+- <b>Dillard's Sales Forecasting (PostgreSQL, ARIMA and SARIMA Time Series)</b>
+  - [Summary paper on analysis results]()
+  - [Project analysis in R code]()
+- <b>Chicago Divvy’s Bike Trips Demand (Ordinary Lease Squares, Support Vector Regression)</b>
+  - [Summary paper on analysis results]()
+  - [Project analysis in R code]()
+- <b>IMDb Movie's Critic Rating Prediction(Data Cleaning, EDA, Feature Engineering, OLS)</b>
+  - [Summary paper on analysis results]()
+  - [Project analysis in R code]()
