@@ -11,6 +11,7 @@
 - <b>Binary Number System for Large Floating Point Numbers and Functions for Arithmetic/Root Operations</b>
   - [Project scoping and assessment in R Markdown](https://github.com/IrisZongzhenLee/BinarySystem/blob/main/BinarySystemProject.Rmd)
   - [Project function development in R code](https://github.com/IrisZongzhenLee/BinarySystem/blob/main/projectfunctions.R)
+
 <h2>👩‍💻 MIT Programming Projects in Python</h2>
 
 - <b>Hotel Booking Cancellation Prediction (Univariate/Bivariate Analysis, Logistic Regression, Support Vector Machine, Decision Tree, Random Forest)</b>
@@ -19,6 +20,7 @@
   - [Project analysis in Python](https://github.com/IrisZongzhenLee/PimaIndiansDiabetes/blob/main/PimaIndiansDiabetesAnalysis.ipynb)<b> (in Jupyter Notebook)</b>
 
 <h2>👾 Northwestern ML/DS Programming Projects</h2>
+
 - <b>Subscriber Churn Prediction (Random Forest, Lasso Regression, Feature Engineering)</b>
   - [Summary paper on analysis results]()
   - [Project analysis in R code]()
