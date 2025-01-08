@@ -30,6 +30,8 @@
 - <b>Chicago Divvy’s Bike Trips Demand (Ordinary Lease Squares, Support Vector Regression)</b>
   - [Summary paper on analysis results]()
   - [Project analysis in R code]()
-- <b>IMDb Movie's Critic Rating Prediction(Data Cleaning, EDA, Feature Engineering, OLS)</b>
+- <b>IMDb Movie's Critic Rating Prediction (Data Cleaning, EDA, Feature Engineering, OLS)</b>
   - [Summary paper on analysis results]()
   - [Project analysis in R code]()
+- Artist's top albums and track lyrics via Spotify and Genius API
+- Fetch all NW MLDS alumni profiles (graduation year, current role and company) via webscraping
