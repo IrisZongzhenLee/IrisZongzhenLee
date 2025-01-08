@@ -33,5 +33,5 @@
 - <b>IMDb Movie's Critic Rating Prediction (Data Cleaning, EDA, Feature Engineering, OLS)</b>
   - [Summary paper on analysis results]()
   - [Project analysis in R code]()
-- Artist's top albums and track lyrics via Spotify and Genius API
-- Fetch all NW MLDS alumni profiles (graduation year, current role and company) via webscraping
+- </b>Artist's top albums and track lyrics via Spotify and Genius API</b>
+- </b>Fetch all NW MLDS alumni profiles (graduation year, current role and company) via webscraping</b>
