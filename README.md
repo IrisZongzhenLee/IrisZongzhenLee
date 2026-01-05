@@ -6,7 +6,16 @@ Welcome to my GitHub profile! I’m a Data Science graduate student with experie
 
 ---
 
-## 🧠 Deep Learning & AI Systems
+## Deep Learning & AI Systems
+
+- **[Advanced RAG News Query Assistant](https://github.com/IrisZongzhenLee/News_Query)**  
+  Retrieval-Augmented Generation (RAG) system and Multi-Agent Workflow for querying and summarizing news articles.
+  
+  - **[Cloud Types Classification](https://github.com/IrisZongzhenLee/Cloud_Classification)**  
+  Image-based cloud type classification using deep learning models.
+
+- **[Cloud Types Web App](https://github.com/IrisZongzhenLee/cloud_webapp)**  
+  Deployed web application for real-time cloud image classification.
 
 - **[Pet Expression Classification](https://github.com/IrisZongzhenLee/Pet_Expression_Classification)**  
   Deep learning–based image classification of pet facial expressions using CNN architectures.
@@ -14,18 +23,12 @@ Welcome to my GitHub profile! I’m a Data Science graduate student with experie
 - **[Speech-to-Text and Summarization](https://github.com/IrisZongzhenLee/Speech_to_Text)**  
   End-to-end pipeline for audio transcription and text summarization using NLP models.
 
-- **[Cloud Types Classification](https://github.com/IrisZongzhenLee/Cloud_Classification)**  
-  Image-based cloud type classification using deep learning models.
-
-- **[Cloud Types Web App](https://github.com/IrisZongzhenLee/cloud_webapp)**  
-  Deployed web application for real-time cloud image classification.
-
-- **[Advanced RAG News Query Assistant](https://github.com/IrisZongzhenLee/News_Query)**  
-  Retrieval-Augmented Generation (RAG) system for querying and summarizing news articles.
-
 ---
 
-## 🤖 Machine Learning & Predictive Modeling
+## Machine Learning & Predictive Modeling
+
+- **[Airline Delay Prediction](https://github.com/IrisZongzhenLee/Airline_Delay_Predictions)**  
+  Predictive modeling of flight delays using operational and temporal features.
 
 - **[Hotel Booking Cancellation Prediction](https://github.com/IrisZongzhenLee/HotelCancellationPrediction)**  
   Supervised learning models to predict booking cancellations for revenue optimization.
@@ -33,18 +36,9 @@ Welcome to my GitHub profile! I’m a Data Science graduate student with experie
 - **[Pima Indians Diabetes Analysis](https://github.com/IrisZongzhenLee/PimaIndiansDiabetes)**  
   Classification and statistical analysis of diabetes risk using healthcare data.
 
-- **[Airline Delay Prediction](https://github.com/IrisZongzhenLee/Airline_Delay_Predictions)**  
-  Predictive modeling of flight delays using operational and temporal features.
-
 ---
 
-## 📊 Data Modeling, Systems & Analytics
-
-- **[Analysis on Life Expectancy Data](https://github.com/IrisZongzhenLee/LifeExpectancyProject)**  
-  Statistical analysis using clustering, PCA, and MLE to study global health outcomes.
-
-- **[Binary Number System for Large Floating-Point Arithmetic](https://github.com/IrisZongzhenLee/BinarySystem)**  
-  Custom numeric system implementation with arithmetic and root operations in R.
+## Data Modeling, Systems & Analytics
 
 - **[Full-Stack Restaurant Customer Analytics](https://github.com/IrisZongzhenLee/Resturant_Customer_Analytics)**  
   End-to-end analytics platform for customer behavior, segmentation, and insights.
@@ -52,14 +46,19 @@ Welcome to my GitHub profile! I’m a Data Science graduate student with experie
 - **[PM2.5 Real-Time Air Quality Tracker](https://github.com/IrisZongzhenLee/Realtime_PM2.5_Tracker)**  
   Real-time data pipeline and visualization system for air quality monitoring.
 
+- **[Analysis on Life Expectancy Data](https://github.com/IrisZongzhenLee/LifeExpectancyProject)**  
+  Statistical analysis using clustering, PCA, and MLE to study global health outcomes.
+
+- **[Binary Number System for Large Floating-Point Arithmetic](https://github.com/IrisZongzhenLee/BinarySystem)**  
+  Custom numeric system implementation with arithmetic and root operations in R.
+
+
 ---
 
-## 🎓 Academic Background
+## Academic Background
 
 - **UCLA** – Statistical Analysis & Numerical Systems  
 - **MIT** – Machine Learning & Predictive Analytics  
 - **Northwestern University** – Data Science, Cloud Systems, and AI Applications
 
 ---
-
-✨ *Feel free to explore the repositories or reach out if you’d like to collaborate or learn more about my work.*
