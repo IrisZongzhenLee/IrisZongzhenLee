@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I’m a Data Science graduate student with experie
 - **[Advanced RAG News Query Assistant](https://github.com/IrisZongzhenLee/News_Query)**  
   Retrieval-Augmented Generation (RAG) system and Multi-Agent Workflow for querying and summarizing news articles.
   
-  - **[Cloud Types Classification](https://github.com/IrisZongzhenLee/Cloud_Classification)**  
+- **[Cloud Types Classification](https://github.com/IrisZongzhenLee/Cloud_Classification)**  
   Image-based cloud type classification using deep learning models.
 
-- **[Cloud Types Web App](https://github.com/IrisZongzhenLee/cloud_webapp)**  
+  - **[Cloud Types Web App](https://github.com/IrisZongzhenLee/cloud_webapp)**  
   Deployed web application for real-time cloud image classification.
 
 - **[Pet Expression Classification](https://github.com/IrisZongzhenLee/Pet_Expression_Classification)**  
